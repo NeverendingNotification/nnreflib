@@ -1,0 +1,4 @@
+mode: train
+env: cart
+algorithm: dqn
+
